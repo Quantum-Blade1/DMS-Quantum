@@ -339,8 +339,8 @@ Result: Quantum-protected password hash
 
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/quantum-password-auditor.git
-cd quantum-password-auditor
+https://github.com/Quantum-Blade1/DMS-Quantum.git
+cd DMS-Quantum
 ```
 
 #### **Step 2: Install Dependencies**
@@ -355,7 +355,7 @@ pip install qiskit qiskit-aer tabulate
 
 #### **Step 3: Run the Auditor**
 ```bash
-python q-analyzer.py
+python q-password.py
 ```
 
 ### **Verify Installation**
@@ -855,12 +855,3 @@ Quantum-Resistant Policy (2024+):
 - "Practical Implementation of QKD in Banking" (2024)
 
 ---
-
-## 🛠️ Technology Stack
-
-### **Core Technologies**
-
-#### **Python 3.8+**
-**Why we chose it:**
-- Easy to read and understand
-- Excellent libraries
