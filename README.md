@@ -618,8 +618,8 @@ Quantum protection: ACTIVE
 ╠════════════════════════════════════════════════════════╣
 ║  RISK ASSESSMENT                                       ║
 ╠════════════════════════════════════════════════════════╣
-║  Current Risk: 🔴 HIGH (vulnerable today)              ║
-║  Future Risk: 🔴 CRITICAL (quantum vulnerable)         ║
+║  Current Risk: 🔴 HIGH (vulnerable today)             ║
+║  Future Risk: 🔴 CRITICAL (quantum vulnerable)        ║
 ║  Overall Rating: NEEDS IMMEDIATE IMPROVEMENT           ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
