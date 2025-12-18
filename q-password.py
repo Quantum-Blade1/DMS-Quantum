@@ -658,4 +658,5 @@ if __name__ == "__main__":
         run_demo_examples()
     
     print("\n\n✅ Analysis Complete! Thank you for using Quantum Password Analyzer!")
+
     print("💡 Tip: Always use long passwords (12+) with quantum encryption!")
