@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-Latest-purple.svg)](https://qiskit.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)](
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 > A hybrid security analysis tool that bridges Modern Discrete Mathematics and Future Quantum Computing to evaluate password strength against both present-day and tomorrow's threats.
 
